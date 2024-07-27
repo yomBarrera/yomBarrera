@@ -1,8 +1,28 @@
 ## Hi friends 👋
 
+<!--
+**yomBarrera/yomBarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRkMHVqdGdoMGNkeDhvdDNzNmlua2JvemlnZHh5aGRwYzQ5aHJ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
+<!-- <div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczlhcWl4eGcxMzF5NHlxYmQ1bmNxYTRpM28wNnZqdWlqd3o3dGJueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
+</div> -->
+<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
+
 
 
 ### <div align="center">Soy Yomar, un desarrollador independiente 👨‍💻, que trabaja de forma remota desde 2021 🚀</div>  
@@ -14,7 +34,7 @@
 - 🦉 Actualmente estoy aprendiendo Docker, nest y Angular   
   
 
-- 💬 Pregúntame sobre cualquier cosa relacionada con la pila MERN y tecnologías relacionadas.  
+- ❓ Pregúntame sobre cualquier cosa relacionada con la pila MERN y tecnologías relacionadas.  
   
 
 - ⚡ Dato curioso: me gustan las data-bases pero me inclino mas al front  
@@ -22,7 +42,7 @@
 
 <br/>  
 
-![Descripción de la imagen](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg)
+
 ## Mis Skills  
 <table><tr><td valign="top" width="50%">
 
@@ -30,7 +50,6 @@
 
 ### Frontend  
 <div align="center">  
-
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
